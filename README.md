@@ -2,8 +2,8 @@
 
 ## 다이어그램
 자판기에서 사용자가 원하는 음료수를 얻기까지의 메카니즘의 다이어그램<br/><br/>
-![diagram](https://github.com/user-attachments/assets/4b10dea4-212a-4588-800e-821c3850bc77)
 
+![diagram](https://github.com/user-attachments/assets/2914d8a4-40e5-4a11-880f-78bf1dcbb6d6)
 
 <br/><br/>
 
@@ -26,7 +26,8 @@
 2. 결과 확인하기<br/>
    3. npm start
 4. 터미널에서 src/index.ts에서 작성한 결과물을 확인할 수 있습니다.<br/><br/>
-<img width="1013" alt="스크린샷 2024-10-25 오후 5 40 15" src="https://github.com/user-attachments/assets/675f8379-3758-4151-8a3c-6b43ea79ed0f">
+
+<img width="1013" alt="스크린샷 2024-10-25 오후 5 40 15" src="https://github.com/user-attachments/assets/8beeb5d7-4b42-42e2-ae42-df8b84e27627">
 
 
 <br/><br/>
